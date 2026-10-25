@@ -1,0 +1,15 @@
+{
+  "java.project.sourcePaths": ["."],
+  "java.project.referencedLibraries": [
+    "lib\\commons-lang3-3.8.1.jar",
+    "lib\\commons-logging-1.2.jar",
+    "lib\\hsqldb-2.5.0.jar",
+    "lib\\jackcess-3.0.1.jar",
+    "lib\\ucanaccess-5.0.1.jar",
+    "e:\\Academic\\Academic 3.2\\Network Programming with Java\\New lab\\accesslab\\lib\\jackcess-3.0.1.jar",
+    "e:\\Academic\\Academic 3.2\\Network Programming with Java\\New lab\\accesslab\\lib\\hsqldb-2.5.0.jar",
+    "e:\\Academic\\Academic 3.2\\Network Programming with Java\\New lab\\accesslab\\lib\\commons-lang3-3.8.1.jar",
+    "e:\\Academic\\Academic 3.2\\Network Programming with Java\\New lab\\accesslab\\lib\\commons-logging-1.2.jar",
+    "e:\\Academic\\Academic 3.2\\Network Programming with Java\\New lab\\accesslab\\lib\\ucanaccess-5.0.1.jar"
+  ]
+}
